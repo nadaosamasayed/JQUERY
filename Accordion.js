@@ -1,0 +1,3 @@
+$("#nada").accordion({
+    collapsible:true
+  })
